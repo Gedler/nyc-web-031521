@@ -179,15 +179,6 @@ typeof NaN //'number'
 
 ![wut](https://media.giphy.com/media/IQ47VvDzlzx9S/giphy.gif)
 
-______
-
-### Doing Labs
-Running the `learn` command in Terminal should open a new browser window where the tests will run. When a file is updated in the directory where `learn` was executed, the web page with the tests should update automatically. If you need to debug your code, figure out which test is failing and put a `debugger` there. This works like `binding.pry` in Ruby.
-
-**Keep in mind that in order for `debugger` to be triggered in your browser, you must have your developer console open.**
-
-If you need quicker and more simple debugging, `console.log` or `console.dir` is the way to go.
-
 ---
 
 ## Documentation
