@@ -55,8 +55,6 @@ arrayOfGrades.forEach(function(element){
 })
 
 
-
-
 setTimeout(function(){
     // setTimeout takes a callback
         // that callback doesn't take any arguments (undefined)
