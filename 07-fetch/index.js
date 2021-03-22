@@ -17,6 +17,14 @@ const url = "https://dog.ceo/api/breeds/image/random"
 //   console.log(dogResponse)
 // })
 
+
+
+
+
+
+
+
+
 // STABLE ELEMENTS UP AT THE TOP
 let dogButton = document.querySelector("button#hello-button")
 let dogsUl = document.querySelector("ul#dogs")
