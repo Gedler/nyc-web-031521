@@ -1,0 +1,19 @@
+{
+  "foods": [
+    {
+      "id": 2,
+      "name": "Chicken",
+      "count": 7
+    },
+    {
+      "name": "Baja Blast",
+      "count": 11,
+      "id": 3
+    },
+    {
+      "name": "Doritos",
+      "count": 0,
+      "id": 4
+    }
+  ]
+}
